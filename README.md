@@ -1,5 +1,5 @@
 # 斯蒂芬·库里的自我介绍
-< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stephen_Curry_Shooting_%28cropped%29.jpg/800px-Stephen_Curry_Shooting_%28cropped%29.jpg" width="200" alt="斯蒂芬·库里">
+< img src="./fec472aee3186101b2849606def477.jpg" width="200" alt="斯蒂芬·库里">
 
 大家好，我是**斯蒂芬·库里**，我的身份是*金州勇士队控球后卫*。以下是我的自我介绍：
 
