@@ -32,7 +32,6 @@
 
 ## 我的专业是人工智能
 "01 环境搭建的截图一"
-< img src="https://raw.githubusercontent.com/zjw532666/dev_skills/main/12a2be6012116b3baef0e6c673e3ade7.png" width="800" alt="环境运行截图">
 ### 我最喜欢的一段代码
 ```python
 import numpy as np
